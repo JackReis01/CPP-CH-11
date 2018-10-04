@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jack\desktop\ch 11\26\26\source.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\desktop\ch 11\26\26\source.cpp(26): warning C4018: '<': signed/unsigned mismatch
+  26.vcxproj -> C:\Users\Jack\Desktop\CH 11\26\Debug\26.exe

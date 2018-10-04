@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jack\desktop\ch 11\28\28\source.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jack\desktop\ch 11\28\28\source.cpp(31): warning C4018: '<': signed/unsigned mismatch
+  28.vcxproj -> C:\Users\Jack\Desktop\CH 11\28\Debug\28.exe
