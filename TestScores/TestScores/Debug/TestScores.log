@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jack\desktop\ch 11\testscores\testscores\source.cpp(9): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\desktop\ch 11\testscores\testscores\source.cpp(7): warning C4101: 'score': unreferenced local variable
+  TestScores.vcxproj -> C:\Users\Jack\Desktop\CH 11\TestScores\Debug\TestScores.exe

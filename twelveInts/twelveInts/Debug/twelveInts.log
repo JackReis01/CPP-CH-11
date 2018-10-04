@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jack\desktop\ch 11\twelveints\twelveints\source.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\desktop\ch 11\twelveints\twelveints\source.cpp(12): warning C4101: 'decend': unreferenced local variable
+  twelveInts.vcxproj -> C:\Users\Jack\Desktop\CH 11\twelveInts\Debug\twelveInts.exe
